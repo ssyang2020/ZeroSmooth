@@ -3,7 +3,7 @@
 
 <div align="center">
 
- <a href='https://arxiv.org/abs/2406.00908'><img src='https://img.shields.io/badge/ArXiv-2310.07702-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://arxiv.org/abs/2406.00908'><img src='https://img.shields.io/badge/ArXiv-2406.00908-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://ssyang2020.github.io/zerosmooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [comment]: <> ( <a href='https://github.com/YingqingHe/ScaleCrafter-ptl'><img src='https://img.shields.io/badge/lightning version-code-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Replicate]&#40;https://replicate.com/cjwbw/scalecrafter/badge&#41;]&#40;https://replicate.com/cjwbw/scalecrafter&#41; )
