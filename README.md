@@ -48,6 +48,7 @@ ZeroSmooth is a training-free plug-in for video diffusers to enable high-frame r
 <br>
 
 ## 📝 TODO
+- [ ] Update gallery
 - [ ] Release codes
 - [ ] Hugging Face Gradio demo
 
